@@ -1,0 +1,5 @@
+description: "Visualizing the statistical relationship between income and net worth using Federal Data"
+email: kyle@kyso.io
+main: notebook.ipynb
+preview: images/preview.png
+title: "The Relationship between Income and Wealth"
