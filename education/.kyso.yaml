@@ -1,0 +1,5 @@
+description: "Plotly animation mapping out the share of country populations with no formal eduction, including to-2050 projections."
+email: kyle@kyso.io
+main: notebook.ipynb
+preview: images/preview.png
+title: "Share of the Population with no Formal Education"
