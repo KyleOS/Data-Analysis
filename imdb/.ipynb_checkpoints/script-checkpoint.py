@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-search = "Breaking Bad"
+search = "Chernobyl"
 
 # search on imdb
 url = "http://www.imdb.com/find?q=" + search
