@@ -1,0 +1,8 @@
+title: "Global Warming since 1850, Month by Month"
+description: "Plotting out global average temperatures since the Industrial Revolution"
+main: notebook.ipynb
+preview: "images/preview.png"
+tags: 
+    - climate
+    - plotly
+    - environment
