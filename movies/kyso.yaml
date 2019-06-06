@@ -1,4 +1,4 @@
-title: "Do IMDB Ratings Suffer From Recency Bias"
+title: "Do IMDB Ratings Suffer From Recency Bias?"
 description: "An analysis of over 60,000 IMDB feature films, looking at ratings and votes over time and at the relationships over time."
 main: notebook.ipynb
 preview: "images/preview.png"
