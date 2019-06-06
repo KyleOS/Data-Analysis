@@ -1,0 +1,8 @@
+title: "Chernobyl may be the highest rated TV Show ever"
+description: "An analysis of both IMDB and Google Trend data for the Chernobyl tv series."
+main: notebook.ipynb
+preview: "images/preview.png"
+tags: 
+    - tv
+    - imdb
+    - google-trends	
