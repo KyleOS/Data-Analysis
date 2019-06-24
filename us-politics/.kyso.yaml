@@ -1,0 +1,5 @@
+description: "Visualizing the increasing spread between corporate and labor PAC contributions over time"
+email: kyle@kyso.io
+main: notebook.ipynb
+preview: images/preview.png
+title: "Congressional Campaign Financing"

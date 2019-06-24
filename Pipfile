@@ -9,6 +9,8 @@ verify_ssl = true
 seaborn = "*"
 altair = "==2.0.0rc1"
 install = "*"
+plotly = "*"
+cufflinks = "*"
 
 [requires]
 python_version = "3.7"
