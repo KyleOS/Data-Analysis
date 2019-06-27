@@ -11,6 +11,7 @@ altair = "==2.0.0rc1"
 install = "*"
 plotly = "*"
 cufflinks = "*"
+plotly-express = "*"
 
 [requires]
 python_version = "3.7"
