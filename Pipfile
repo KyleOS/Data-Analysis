@@ -12,6 +12,8 @@ install = "*"
 plotly = "*"
 cufflinks = "*"
 plotly-express = "*"
+country-converter = "*"
+pycountry = "*"
 
 [requires]
 python_version = "3.7"
