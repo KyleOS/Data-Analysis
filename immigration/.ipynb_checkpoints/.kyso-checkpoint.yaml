@@ -1,0 +1,8 @@
+title: "Undocumented Immigrant Tax Contributions"
+description: "An analysis of the state and federal tax contributions from undocumented immigrants across the US."
+main: notebook.ipynb
+preview: "images/preview.png"
+tags: 
+    - taxes
+    - immigration
+    - plotly
