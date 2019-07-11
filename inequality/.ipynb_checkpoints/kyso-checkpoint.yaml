@@ -1,8 +1,0 @@
-title: "Wealth and Income Inequality"
-description: "An analysis of WID data for all countries around the world."
-main: notebook.ipynb
-preview: "images/preview.png"
-tags: 
-    - inequality
-    - wealth
-    - pikkety
