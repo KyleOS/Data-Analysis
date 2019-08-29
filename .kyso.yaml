@@ -1,4 +1,0 @@
-main: notebook.ipynb
-hideRoot: true
-posts:
-  - "*"

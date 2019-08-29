@@ -1,5 +1,0 @@
-description: "Testing plotly buttons on kyso"
-email: kyle@kyso.io
-main: notebook.ipynb
-preview: images/preview.png
-title: "Plotly Custom Buttons"
