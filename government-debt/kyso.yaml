@@ -1,5 +1,0 @@
-description: "Visualizing the Debt-to-GDP ratios of all countries to show how growth and record-low interest rates have pushed government debt ever higher."
-email: kyle@kyso.io
-main: notebook.ipynb
-preview: images/preview.png
-title: "Government Debt Around the World"

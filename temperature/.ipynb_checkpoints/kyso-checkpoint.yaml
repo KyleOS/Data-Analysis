@@ -1,0 +1,5 @@
+description: "Plotting out global average temperatures since the Industrial Revolution"
+email: kyle@kyso.io
+main: notebook.ipynb
+preview: images/preview.png
+title: "Global Warming since 1850, Month by Month"
