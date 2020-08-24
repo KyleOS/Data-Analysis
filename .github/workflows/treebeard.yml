@@ -2,29 +2,18 @@
         
 name: Treebeard Jupyter Notebook CI
 
-  # You may pin to the exact commit or the version.
-  # uses: treebeardtech/treebeard@b4ae75bdd1a2137d971f28f35139db47642d3cda
-  
-  uses: treebeardtech/treebeard@v0.1.1
-  with:
-    # treebeard api key
-    api-key: # optional
-    # notebooks to run
-    notebooks: # optional
-    # 
-    docker-username: # optional
-    # 
-    docker-password: # optional
-    # the name of the image built by treebeard
-    docker-image-name: # optional
-    # the prefix of your docker image name, use instead of docker-image-name to generate a default image name
-    docker-registry-prefix: # optional
-    # run treebeard inside repo2docker
-    use-docker: # optional, default is true
-    # Enable debug logging
-    debug: # optional, default is false
-    # Path of the repo to run
-    path: # optional, default is .
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * 0" # weekly
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run treebeard
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - uses: treebeardtech/treebeard@master
         
         
         
