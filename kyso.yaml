@@ -1,4 +1,8 @@
 main: notebook.ipynb
 hideRoot: true
 posts:
-  - "*"
+  - dating
+  - temperature
+  - movies
+  - income-wealth
+  - living-wage
