@@ -1,5 +1,8 @@
-description: "Plotting out global average temperatures since the Industrial Revolution"
+description: "A deep dive into how many subscriptions we can credit to paid ads prospecting given different attribtution variables."
 email: kyle@kyso.io
 main: notebook.ipynb
 preview: images/preview.png
-title: "Global Warming since 1850, Month by Month"
+title: "Why we could spend €1MM more on paid ads this quarter"
+tags:
+    - advertisements
+    - plotly

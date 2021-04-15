@@ -1,5 +1,9 @@
-description: "Looking at the minimum required annual income for a family of four across different US states and how the minimum wage compares."
+description: "Here we present a new approach to calculate the lifetime value of our B2C customers and how we can track and improve this moving forward."
 email: eoin@kyso.io
 main: notebook.ipynb
 preview: images/preview.png
-title: "Is the Minimum Wage Enough?"
+title: "What is the lifetime value of our B2C customers?"
+tags: 
+    - profiling
+    - retention
+    - bokeh

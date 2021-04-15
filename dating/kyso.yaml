@@ -1,5 +1,9 @@
-description: "Visualizing how our dating patterns have changed over time"
+description: "Quick dive into some retention metrics for the preceeding 18 months to determine the cause of the recent decline."
 email: kyle@kyso.io
 main: notebook.ipynb
 preview: images/preview.png
-title: "The Rise of Online Dating"
+title: "The state of B2C retention at Acme"
+tags:
+    - retention
+    - engagement
+    - customer-success
