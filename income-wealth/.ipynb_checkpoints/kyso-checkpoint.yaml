@@ -1,0 +1,9 @@
+description: "How long does it take to break even on investments in paid ads?"
+email: helena@kyso.io
+main: notebook.ipynb
+preview: images/preview.png
+title: "This is a comprehensive analysis of our paid ads performance in 2019 and 2020 across all social channels."
+tags:
+    - advertising
+    - marketing
+    - bokeh
