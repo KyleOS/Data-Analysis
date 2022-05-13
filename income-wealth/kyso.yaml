@@ -1,3 +1,6 @@
+organization: kyleos
+team: general
+type: jupyter
 description: "Visualizing the statistical relationship between income and net worth using Federal Data"
 email: kyle@kyso.io
 main: notebook.ipynb

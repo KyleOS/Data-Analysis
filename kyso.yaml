@@ -1,6 +1,6 @@
+type: meta
 main: notebook.ipynb
-hideRoot: true
-posts:
+reports:
   - dating
   - temperature
   - movies

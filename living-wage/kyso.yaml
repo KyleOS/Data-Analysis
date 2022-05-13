@@ -1,3 +1,6 @@
+organization: kyleos
+team: general
+type: jupyter
 description: "Looking at the minimum required annual income for a family of four across different US states and how the minimum wage compares."
 email: eoin@kyso.io
 main: notebook.ipynb

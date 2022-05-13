@@ -1,3 +1,6 @@
+organization: kyleos
+team: my-private-team
+type: jupyter
 description: "Visualizing how our dating patterns have changed over time"
 email: kyle@kyso.io
 main: notebook.ipynb
