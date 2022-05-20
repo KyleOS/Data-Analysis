@@ -2,7 +2,7 @@ type: meta
 main: notebook.ipynb
 reports:
   - dating
-  # - temperature
+  - temperature
   - movies
   - income-wealth
   - living-wage
