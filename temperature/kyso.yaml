@@ -1,8 +1,0 @@
-organization: kyleos
-team: general
-type: jupyter
-description: "Plotting out global average temperatures since the Industrial Revolution"
-email: dani@kyso.io
-main: notebook.ipynb
-preview: images/preview.png
-title: "Global Warming since 1850, Month by Month"
